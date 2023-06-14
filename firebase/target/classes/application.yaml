@@ -1,0 +1,5 @@
+key:
+  path: src/main/resources/fir-db-for-springboot-ec481-firebase-adminsdk-cp9c8-9390bea74f.json
+
+database:
+  url: https://console.firebase.google.com/project/fir-db-for-springboot-ec481/database/fir-db-for-springboot-ec481-default-rtdb/data/~2F
